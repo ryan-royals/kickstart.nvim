@@ -180,6 +180,7 @@ return {
           experimentalFeatures = { prefillRequiredFields = true },
         },
       },
+      tflint = {},
 
       lua_ls = {
         -- cmd = { ... },
